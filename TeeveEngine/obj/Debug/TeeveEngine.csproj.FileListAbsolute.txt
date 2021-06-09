@@ -1,0 +1,7 @@
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\bin\Debug\TeeveEngine.exe.config
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\bin\Debug\TeeveEngine.exe
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\bin\Debug\TeeveEngine.pdb
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\obj\Debug\TeeveEngine.csprojAssemblyReference.cache
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\obj\Debug\TeeveEngine.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\obj\Debug\TeeveEngine.exe
+C:\Users\Tony\Documents\GitHub\TeeveEngine\TeeveEngine\obj\Debug\TeeveEngine.pdb
